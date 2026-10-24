@@ -1,0 +1,6 @@
+{
+  "name": "Maison Omayma - Women's Fashion Boutique",
+  "description": "An elegant, modern women's fashion boutique and comprehensive e-commerce store with dedicated owner inventory control panels (كيفاش نحسن، نزييد، نقص).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
